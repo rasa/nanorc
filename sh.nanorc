@@ -5,7 +5,7 @@ header "^#!.*/(env +)?(ba|da|a)?sh( |$)"
 magic "(POSIX|Bourne-Again) shell script.*text"
 # comment "#"
 
-linter dash -n
+# linter dash -n
 
 ## keywords:
 color green "\<(case|do|done|elif|else|esac|fi|for|function|if|in|select|then|time|until|while)\>"

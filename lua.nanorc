@@ -16,7 +16,7 @@ syntax "Lua" ".*\.lua$"
 magic "Lua script"
 # comment "--"
 
-linter luacheck --no-color
+# linter luacheck --no-color
 
 # General
 color brightwhite ".+"
