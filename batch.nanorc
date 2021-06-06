@@ -3,7 +3,7 @@
 ## License: MIT License
 
 syntax "batch" "\.(bat|cmd)$"
-header "^@[eE](cho|CHO) (on|off|ON|OFF)"
+# header "^@[eE](cho|CHO) (on|off|ON|OFF)"
 # comment "::"
 
 # Native commands, symbols, and comparisons.

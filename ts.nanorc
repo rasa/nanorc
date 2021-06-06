@@ -1,5 +1,5 @@
 syntax "typescript" "\.(ts)$"
-header "^#!.*\/(env +)ts-node"
+# header "^#!.*\/(env +)ts-node"
 
 ## Default
 color white "^.+$"
