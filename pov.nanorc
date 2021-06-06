@@ -1,7 +1,7 @@
 ## Here is an example for POV-Ray.
 ##
 syntax "POV" "\.(pov|POV|povray|POVRAY)$"
-comment "//"
+# comment "//"
 
 color brightcyan "^[[:space:]]*#[[:space:]]*(declare)"
 color brightyellow "\<(sphere|cylinder|translate|matrix|rotate|scale)\>"

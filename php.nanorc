@@ -1,7 +1,7 @@
 ## PHP Syntax Highlighting
 syntax "PHP" "\.php[2345s~]?$|\.module$"
 magic "PHP script"
-comment "//"
+# comment "//"
 color white start="<\?(php|=)?" end="\?>"
 # Constructs
 color brightblue "(class|extends|goto) ([a-zA-Z0-9_]*)"

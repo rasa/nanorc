@@ -1,5 +1,5 @@
 syntax "toml" "\.toml$"
-comment "#"
+# comment "#"
 
 # Booleans
 color magenta "true|false"

@@ -14,7 +14,7 @@
 
 syntax "JavaScript" "\.(js)$"
 header "^#!.*\/(env +)node"
-comment "//"
+# comment "//"
 
 ## Default
 color white "^.+$"
